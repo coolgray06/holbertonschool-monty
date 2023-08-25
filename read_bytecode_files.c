@@ -51,7 +51,7 @@ int is_integer(char *str)
 }
 
 /**
- * read_bytecode_files - Getline and tokenize
+ * read_bytecode_file - Getline and tokenize
  * @file:  Name of file
  * Return: Nothing
  **/
